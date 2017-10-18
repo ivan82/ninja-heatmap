@@ -2,6 +2,7 @@
 Creates a Heatmap based on points that are set on the data array property.
 
 ## Getting Started
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -25,3 +26,4 @@ function addPoint(event){
 </script>
 </body>
 </html>
+```
